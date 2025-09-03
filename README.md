@@ -18,12 +18,12 @@ Ainda estou no começo da minha jornada na programação, e por isso, este GitHu
 
 #### **O que estou aprendendo:**
 
-* **Linguagens de Programação:** [Aqui você pode colocar as linguagens que está aprendendo, como Python, Java, JavaScript, etc.]
-* **Ferramentas:** [Aqui você pode colocar as ferramentas, como Git, Docker, etc.]
+* **Linguagens de Programação:** Python, portugol.
+* **Ferramentas:** Figma, Miro, trelo, github
 
 ---
 
 #### **Contato:**
 
-* **LinkedIn:** [Se você tiver um, coloque o link aqui]
-* **Email:** [Se você quiser, coloque seu e-mail aqui]
+* **LinkedIn:** Lucas Segundo
+* **Email:** lfls@cesar.school
