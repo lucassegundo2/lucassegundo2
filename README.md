@@ -25,6 +25,6 @@ Ainda estou no começo da minha jornada na programação, e por isso, este GitHu
 
 #### Contato:
 
-* LinkedIn: Lucas Segundo
+* LinkedIn: https://www.linkedin.com/in/lucas-segundo-44a9a7349
 * Email: lfls@cesar.school
 * GitHub: https://github.com/lucassegundo2
